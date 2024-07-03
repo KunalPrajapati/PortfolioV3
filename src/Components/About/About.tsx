@@ -4,6 +4,7 @@ import Image from 'next/image';
 import React from 'react';
 import Arrow from '../Icons';
 import Label from '../Label';
+import Me from '../../../public/assets/Me.png';
 
 
 const Profile: React.FC = () => {
@@ -30,7 +31,8 @@ const Profile: React.FC = () => {
                             data-nimg="1"
                             className="transition-all rounded-lg contrast-75 grayscale hover:grayscale-0"
                             style={{ color: 'transparent' }}
-                            src="./Me.png"
+                            // src="/public/assets/Me.png"
+                            src={Me}
                         />
 
                     </div>

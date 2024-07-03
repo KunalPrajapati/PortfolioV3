@@ -5,6 +5,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { useState } from "react";
 import DarkModeToggle from "../Togglebutton";
 import Link from "next/link";
+import Me from '../../../public/assets/pic.png'; 
 
 const Navbar = () => {
   const [isMenu, setIsMenu] = useState(false);
@@ -26,10 +27,11 @@ const Navbar = () => {
         <div className="flex flex-row items-center justify-center">
           <Link href="/">
           <Image
-            src={"/assets/logo.png"}
+            // src={"/assets/pic.png"}
+            src={Me}
             alt="logo"
             width={50}
-            height={50}
+            height={100}
             className="w-16 h-16 cursor-pointer image hover:scale-110"
           />
           </Link>
