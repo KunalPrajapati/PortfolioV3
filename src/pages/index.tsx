@@ -16,7 +16,7 @@ export default function App() {
     <SpeedInsights/>
       <Navbar />
       <main>
-        <div className=' mx-8 md:mx-44 mb-20'>
+        <div className='mx-8 mb-20 md:mx-44'>
           <Intro />
           <About />
           <Experience/>

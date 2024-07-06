@@ -7,8 +7,8 @@ const date = "04 March - 31-May";
 const tasks = [
     'Developed Holiday Package Module.',
     'Implemented Skeleton Loader in the app.',
-    'Increased app performance with 28% by using code splitting, lazy loading',
-    'Integrated Backend APIs with frontend,'
+    'Increased app performance with 28% by using code splitting, lazy loading.',
+    'Integrated Backend APIs with frontend.'
 ];
 
 const title2 = "Bluecollarlog";
@@ -17,16 +17,17 @@ const date2 = "05 Dec'23 - 29 Feb'24";
 const tasks2 = [
     'Directed end-to-end development of the mobile app.',
     'Successfully integrated backend APIs for seamless functionality within the app.',
-    'Strategically planned and implemented scalable solutions to support the growth of the app infrastructure'
+    'Strategically planned and implemented scalable solutions to support the growth of the app infrastructure.'
 ];
 
-const title3 = "Bluecollarlog";
-const position3 = "React Native Developer Intern";
-const date3 = "05 Dec'23 - 29 Feb'24";
+const title3 = "Infotrixs";
+const position3 = "Frontend Developer Intern";
+const date3 = "03 Jul'23 - 30 Sept'23";
 const tasks3 = [
-    'Directed end-to-end development of the mobile app.',
-    'Successfully integrated backend APIs for seamless functionality within the app.',
-    'Strategically planned and implemented scalable solutions to support the growth of the app infrastructure'
+    'Managed a team of three interns and worked collaboratively on a project.',
+    'Distribution of work and collaboration with team and mentors.',
+    'Resolved Bug Related to Products.',
+    'Contributed to developing the website of the company.'
 ];
 
 const Experience = () => {
