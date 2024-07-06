@@ -19,9 +19,9 @@ const Contact = () => {
     }
   }, [name, email, message]);
 
-const serviceId ='service_hri49eq'
-const templateId ='template_40w5hjo'
-const publicKey='smqYZrfsXfFCsp4MP'
+const serviceId ='service_o8xr4lb'
+const templateId ='template_9hcbzv8'
+const publicKey='0Rihr9k34EsXKko85'
 
   const templateParams = {
     from_name: name,
