@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "dev": "next build && next dev",
+    "start": "next build && next start"
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
