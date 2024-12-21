@@ -15,7 +15,6 @@ const date2 = "March'24 - May'24";
 const tasks2 = [
     'Developed Holiday Package Module.',
     'Implemented Skeleton Loader in the app.',
-    'Increased app performance with 28% by using code splitting, lazy loading.',
     'Integrated Backend APIs with frontend.'
 ];
 
