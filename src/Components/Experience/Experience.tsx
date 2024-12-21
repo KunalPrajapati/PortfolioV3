@@ -3,7 +3,7 @@ import ExperienceCard from "../ExperienceCard";
 
 const title = "Factacy.ai";
 const position = "React Native Developer Intern";
-const date = "01 July - Present";
+const date = "July'24 - Present";
 const tasks = [
     'Working on Factacy Aicite News app based on AI',
     'Optimized App Performance by 20%',
@@ -11,7 +11,7 @@ const tasks = [
 ];
 const title2 = "The SkyTrails";
 const position2 = "React Native Developer Intern";
-const date2 = "04 March - 31-May";
+const date2 = "March'24 - May'24";
 const tasks2 = [
     'Developed Holiday Package Module.',
     'Implemented Skeleton Loader in the app.',
@@ -21,7 +21,7 @@ const tasks2 = [
 
 const title3 = "Bluecollarlog";
 const position3 = "React Native Developer Intern";
-const date3 = "05 Dec'23 - 29 Feb'24";
+const date3 = "Dec'23 - Feb'24";
 const tasks3 = [
     'Directed end-to-end development of the mobile app.',
     'Successfully integrated backend APIs for seamless functionality within the app.',
@@ -30,7 +30,7 @@ const tasks3 = [
 
 const title4 = "Infotrixs";
 const position4 = "Frontend Developer Intern";
-const date4 = "03 Jul'23 - 30 Sept'23";
+const date4 = "ul'23 - Sept'23";
 const tasks4 = [
     'Managed a team of three interns and worked collaboratively on a project.',
     'Distribution of work and collaboration with team and mentors.',
