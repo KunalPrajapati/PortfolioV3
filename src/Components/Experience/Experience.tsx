@@ -2,7 +2,7 @@ import ExperienceCard from "../ExperienceCard";
 
 
 const title = "Factacy.ai";
-const position = "React Native Developer Intern";
+const position = "Mobile App Developer";
 const date = "July'24 - Present";
 const tasks = [
     'Working on Factacy Aicite News app based on AI',
@@ -10,7 +10,7 @@ const tasks = [
     'Published the app on Play store and App store'
 ];
 const title2 = "The SkyTrails";
-const position2 = "React Native Developer Intern";
+const position2 = "Mobile App Developer Intern";
 const date2 = "March'24 - May'24";
 const tasks2 = [
     'Developed Holiday Package Module.',
@@ -19,7 +19,7 @@ const tasks2 = [
 ];
 
 const title3 = "Bluecollarlog";
-const position3 = "React Native Developer Intern";
+const position3 = "Mobile App Developer Intern";
 const date3 = "Dec'23 - Feb'24";
 const tasks3 = [
     'Directed end-to-end development of the mobile app.',
