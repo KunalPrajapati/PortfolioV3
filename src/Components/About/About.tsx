@@ -49,7 +49,7 @@ const Profile: React.FC = () => {
                 <div className="mt-12 dark:text-gray-800 ">
                     <h4 className="mb-6 text-xl">Short-Bio:</h4>
                     <p className="lg:w-[80%] ">
-                        Hi, I'm Kunal Prajapati, a Full Stack Developer from India. I'm a BCA graduate from IPU. I specialize in frontend development and have experience in this field.
+                        Hi, I'm Kunal Prajapati, a Mobile App Developer from India. I'm a BCA graduate from IPU. I specialize in frontend development and have experience in this field.
                         <br />
                         <br />
                         And I love building websites and mobile apps. I have worked with a few startups and have helped them in building and developing their products.
