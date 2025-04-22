@@ -40,7 +40,7 @@ const Profile: React.FC = () => {
                     <button
                         className="py-2 font-semibold text-white duration-500 bg-pink-600 border border-pink-600 rounded-md hover:text-pink-600 hover:border-pink-600 hover:bg-transparent text-main w-44"
                         onClick={() => {
-                            window.open('https://drive.google.com/file/d/1U7WhbVKww4WlvASC8OLlreYhLLn5wvSx/view?usp=sharing', '_blank');
+                            window.open('https://drive.google.com/file/d/13GpxA--6vSL9hQQ1en8oDy6Ev2L9JE0l/view', '_blank');
                         }}
                     >
                         Resume
